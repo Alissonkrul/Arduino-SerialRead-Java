@@ -44,7 +44,7 @@ import org.zu.ardulink.gui.SerialConnectionPanel;
 
 /**
  *
- * @author Marco
+ * @author Marco on behalf of Physics Light
  */
 public class SerialRead implements RawDataListener {
 
