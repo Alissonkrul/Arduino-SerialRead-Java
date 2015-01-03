@@ -12,6 +12,23 @@ The Arduino board elaborates a random number and print the data via the serial p
 For detailed information visit my blog [Physics Light](http://physicslight.wordpress.com/) 
 at the page [Arduino Serial Read Using Java](http://physicslight.wordpress.com/2015/01/02/arduino-serial-read-using-java/) 
 
+##Configure##
+
+[Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-142931.html) and install Java SE development kit JDK and NetBeans IDE Windows x86 version (32 bit)
+
+###RXTX library installation guide Windows###
+
+[Download](http://rxtx.qbang.org/pub/rxtx/rxtx-2.1-7-bins-r2.zip) the RXTX java library
+
+Navigate to the JDK directory in your PC and find the jre directory:
+
+C:\Program Files (x86)\Java\jdk1.8.0_20\jre
+
+Open the RXTX library folder and copy the files in the jre directory
+
+RXTXcomm.jar → …\lib\ext
+rxtxSerial.dll → …\bin
+
 ##License##
 The Arduino Serial Read Java app is a free software licensed under [GNU GPL v3.0](http://www.gnu.org/licenses/gpl-3.0.txt) General Public License 
 
