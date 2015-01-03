@@ -27,6 +27,7 @@ C:\Program Files (x86)\Java\jdk1.8.0_20\jre
 Open the RXTX library folder and copy the files in the jre directory
 
 RXTXcomm.jar → …\lib\ext
+
 rxtxSerial.dll → …\bin
 
 ##License##
